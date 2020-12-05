@@ -4,7 +4,7 @@ aGremlinMailer is an automation tool to create HTML files with your targets info
 
 
 <h2>Phishing</h2>
-aGremlinMailer is particularly useful for phishing attacks since it can create more than a 1,000 different mails each containing the different informations of your targets in a matter of seconds, all you need is a template and a list of targets. <i>Note that aGremlinMailer does not support the sending of mails yet, it only generate the HTML files for sending !</i>
+aGremlinMailer is particularly useful for phishing attacks since it can create more than a 1,000 different mails each containing the different informations of your targets in a matter of seconds, all you need is a template and a list of targets. <i>Note that aGremlinMailer does not support the sending of mails yet, for now it only generate the HTML files for sending !</i>
 
 <h2>How it works ?</h2>
 When you're running the program, it will first ask you for 2 things.
