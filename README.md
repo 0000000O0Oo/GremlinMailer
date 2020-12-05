@@ -35,5 +35,7 @@ For the list file you will need to use one of these formatting :
 An example could be :
 
 TheGreenGremlin Gremlin gremlin@gremlin.com
+
 John Doe jdoe@doodoo.com
+
 Jane Doe mjdoe@dodoo.com
