@@ -1,4 +1,4 @@
-# AGremlinMailer
+# aGremlinMailer
 aGremlinMailer is an automation tool to create HTML files with your targets information.
 
 
